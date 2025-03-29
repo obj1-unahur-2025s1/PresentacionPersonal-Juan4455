@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
+# Juan Ruiz Diaz
 ## Presentación Personal
 
 ### Datos Personales
