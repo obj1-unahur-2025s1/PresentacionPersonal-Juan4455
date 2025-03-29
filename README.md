@@ -7,6 +7,8 @@ Este año le estoy dando una nueva oportunidad a la carrera, ya que estaba muy d
 
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+### Mis gustos
+- Me gusta ir al gimnasio
+- Tengo un gato que se Gaspar
+- Me gusta ver documentales
+- Me encantan los mapas
